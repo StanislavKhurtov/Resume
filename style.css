@@ -151,13 +151,13 @@ body {
 .list {
     display: flex;
     flex-direction: column;
-    row-gap: 15px;
+    row-gap: 25px;
 }
 
 
 .contact {
     border-bottom: 4px solid grey;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 
 .contact__item {
@@ -181,11 +181,11 @@ body {
 
 .skill {
     border-bottom: 4px solid grey;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 .soft-skill {
     border-bottom: 4px solid grey;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 .left-column {
     flex: 1 0 60%;
@@ -197,7 +197,7 @@ body {
 
 .language {
     border-bottom: 4px solid grey;
-    padding-bottom: 20px;
+    padding-bottom: 60px;
 }
 
 .about {
